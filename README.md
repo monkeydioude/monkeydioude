@@ -1,11 +1,13 @@
 ### Bonjour there 👋
 
 - 🔭 I’m currently working on [Cookie RSS](https://github.com/monkeydioude/rss), a universal RSS aggregator and news source finder.
+- 💻 I'm currently using [Go](https://github.com/monkeydioude?tab=repositories&q=&type=&language=go&sort=) the most, professionally.
 - 🌱 I’m currently learning:
-    -   Machine Learning
-    -   Rust
+    -   [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/YCGA7JXHPBR9)
+    -   [Rust](https://github.com/monkeydioude?tab=repositories&q=&type=&language=rust&sort=)
+    -   [Maximizing efficiency and happiness by minimizing blunders](https://longform.asmartbear.com/avoid-blundering/)
+    -   [Getting better at math](https://www.coursera.org/account/accomplishments/specialization/PGXP3LZMK53B)
     -   Better software/architecture designs
-    -   Maximizing efficiency and happiness by minimizing blunders
 - ⚡ Fun fact: Capybaras == ☯️
 
-I love [SPAAAAAAAACE](https://monkeydioude.github.io/spaaaaaaaace/)
+I love space :) [SPAAAAAAAACE](https://monkeydioude.github.io/spaaaaaaaace/)
