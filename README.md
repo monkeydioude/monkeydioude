@@ -10,6 +10,6 @@
     -   Better software/architecture designs
 - ⚡ Fun fact: Capybaras == ☯️
 
-[CV](https://monkeydioude.github.io/capysan/) • [LinkedIn](https://www.linkedin.com/in/julien-duris-b7a27680/) • [Malt](https://www.malt.fr/profile/julienduris)
+I love [SPAAAAAAAACE](https://monkeydioude.github.io/spaaaaaaaace/) and [binary carpets](https://monkeydioude.github.io/alied/) :)
 
-I love space :) [SPAAAAAAAACE](https://monkeydioude.github.io/spaaaaaaaace/)
+[CV](https://monkeydioude.github.io/capysan/) • [LinkedIn](https://www.linkedin.com/in/julien-duris-b7a27680/) • [Malt](https://www.malt.fr/profile/julienduris)
